@@ -1,30 +1,15 @@
-{
-  "name": "boronide-obfuscator",
-  "version": "0.2.4",
-  "description": "Boronide Old Source Code",
-  "main": "src/run.js",
-  "scripts": {
-    "test": "src/run.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Herrtt/Boronide-Obfuscator.git"
-  },
-  "keywords": [
-    "boronide",
-    "obfuscator",
-    "lua",
-    "open",
-    "source",
-    "roblox",
-    "fivem",
-    "gamesense",
-    "obfuscate"
-  ],
-  "author": "Herrtt",
-  "license": "AGPL-3.0",
-  "bugs": {
-    "url": "https://github.com/Herrtt/Boronide-Obfuscator/issues"
-  },
-  "homepage": "https://github.com/Herrtt/Boronide-Obfuscator#readme"
-}
+# Boroide(tm) V0.2.4
+## Features
+* Instruction Shuffle
+* Constant Shuffle
+* Fake Constants
+* Fake Code
+* Anti Tamper
+* Meme strings
+
+# Installation / Usage
+
+Usage:
+```bash
+$ cd src && node run.js
+```
